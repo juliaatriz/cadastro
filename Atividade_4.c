@@ -1,5 +1,5 @@
 /* ====================================================================
-   ATIVIDADE 04 - CADASTRO DE LOJA (VERSAO COMENTADA LINHA POR LINHA)
+   ATIVIDADE 04 - BEAUTY STORE
 
    O que o programa faz:
    - Guarda produtos de uma loja em um arquivo de texto (produtos.txt)
