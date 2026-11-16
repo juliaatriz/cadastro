@@ -8,4 +8,4 @@
   - Kamilly Vitória — RGM: 46919431
  
   ## Sobre o trabalho
-O programa trabalha com cadastro de dados.
+O programa trabalha com cadastro de dados de uma loja de Beleza focada em produtos femininos.
