@@ -2,3 +2,18 @@
 2;BT velvet;Maquiagem;69.99;15;Bruna Tavares
 3;Protetor Solar 60FPS;Cosmetico;22.50;40;Principia
 4;Creme Hidratante;Cosmetico;53.00;25;Creamy
+5;Base Liquida Matte;Maquiagem;79.90;20;Vult
+6;Batom Cremoso Rosa;Maquiagem;34.90;50;Mary Kay
+7;Mascara de Cilios;Maquiagem;42.00;35;Maybelline
+8;Paleta de Sombras;Maquiagem;89.90;12;Ruby Rose
+9;Po Compacto;Maquiagem;29.90;45;Payot
+10;Gloss Labial;Maquiagem;19.90;60;OcÃ©ane
+11;Serum Vitamina C;Cosmetico;98.00;18;Creamy
+12;Agua Micelar;Cosmetico;37.50;30;Bioderma
+13;Gel de Limpeza Facial;Cosmetico;45.90;28;Principia
+14;Esfoliante Corporal;Cosmetico;31.00;22;Natura
+15;Hidratante Labial;Cosmetico;15.90;70;Carmed
+16;Tonico Facial;Cosmetico;39.90;25;Principia
+17;Creme para Maos;Cosmetico;18.50;55;Nivea
+18;Mascara Capilar;Cosmetico;64.00;16;Lola Cosmetics
+19;Protetor Solar Facial;Cosmetico;58.90;33;La Roche
