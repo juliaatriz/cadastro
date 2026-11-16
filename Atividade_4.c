@@ -125,7 +125,22 @@ void criar() {                           // inicio da funcao criar
     fprintf(arq, "1;Choco Chili;Maquiagem;49.90;30;FR\n");        // produto 1
     fprintf(arq, "2;BT velvet;Maquiagem;69.99;15;Bruna Tavares\n");       // produto 2
     fprintf(arq, "3;Protetor Solar 60FPS;Cosmetico;22.50;40;Principia\n");    // produto 3
-    fprintf(arq, "4;Creme Hidratante;Cosmetico;53.00;25;Creamy\n");             // produto 4
+    fprintf(arq, "4;Creme Hidratante;Cosmetico;53.00;25;Creamy\n");
+    fprintf(arq, "5;Base Liquida Matte;Maquiagem;79.90;20;Vult\n");        // produto 5
+    fprintf(arq, "6;Batom Cremoso Rosa;Maquiagem;34.90;50;Mary Kay\n");      // produto 6
+    fprintf(arq, "7;Mascara de Cilios;Maquiagem;42.00;35;Maybelline\n");     // produto 7
+    fprintf(arq, "8;Paleta de Sombras;Maquiagem;89.90;12;Ruby Rose\n");      // produto 8
+    fprintf(arq, "9;Po Compacto;Maquiagem;29.90;45;Payot\n");                // produto 9
+    fprintf(arq, "10;Gloss Labial;Maquiagem;19.90;60;Océane\n");             // produto 10
+    fprintf(arq, "11;Serum Vitamina C;Cosmetico;98.00;18;Creamy\n");         // produto 11
+    fprintf(arq, "12;Agua Micelar;Cosmetico;37.50;30;Bioderma\n");           // produto 12
+    fprintf(arq, "13;Gel de Limpeza Facial;Cosmetico;45.90;28;Principia\n"); // produto 13
+    fprintf(arq, "14;Esfoliante Corporal;Cosmetico;31.00;22;Natura\n");      // produto 14
+    fprintf(arq, "15;Hidratante Labial;Cosmetico;15.90;70;Carmed\n");        // produto 15
+    fprintf(arq, "16;Tonico Facial;Cosmetico;39.90;25;Principia\n");         // produto 16
+    fprintf(arq, "17;Creme para Maos;Cosmetico;18.50;55;Nivea\n");           // produto 17
+    fprintf(arq, "18;Mascara Capilar;Cosmetico;64.00;16;Lola Cosmetics\n");  // produto 18
+    fprintf(arq, "19;Protetor Solar Facial;Cosmetico;58.90;33;La Roche\n");  // produto 19// produto 4
 
     fclose(arq);                         // fecha o arquivo para salvar tudo
     printf("Arquivo criado com sucesso!\n");   // avisa que deu certo
